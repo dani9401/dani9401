@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ["Around the US"](https://dani9401.github.io/se_project_aroundtheus/)
 
-- 🌱 I’m currently learning **Practicum Software Engineering Program, HTML, CSS, Java Script**
+- 🌱 I’m currently learning **TripleTen Software Engineering Program, HTML, CSS, Java Script, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dani9401](https://github.com/dani9401)
 
