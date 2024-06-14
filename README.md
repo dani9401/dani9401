@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/daniellefoss/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/639401815/9a40c3d8-d6ae-4371-9cbc-26a9f59b6db0" alt="linkedin" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/daniellefoss/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/1656f82b5b9a31968ab033db39768b4d0ffaf872/public/icons/linkedin/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
+  <span></span>
   📫 or email me at **daniellefoss01@gmail.com**
 </p>
 
