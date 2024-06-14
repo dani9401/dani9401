@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danielle Foss</h1>
-<h3 align="center">Aspiring Software Developer working towards the career I was always meant for.</h3>
+<h3 align="center">I began my journey into Software Engineering in 2023 and can't wait to add more years to that!</h3>
 
-- 🔭 I’m currently working on ["Around the US"](https://dani9401.github.io/se_project_aroundtheus/)
+- 🔭 I’m currently working on ["Slopopedia"](https://github.com/jahorwitz/slopopedia) and (https://github.com/jahorwitz/slopopedia-api)
 
 - 🌱 I’m currently learning **TripleTen Software Engineering Program, HTML, CSS, Java Script, React**
 
