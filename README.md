@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Danielle Foss</h1>
-<h3 align="center">I began my journey into Software Engineering in 2023 and can't wait to add more years to that!</h3>
+<h3 align="center">I began my journey into Software Engineering in 2023, and immediately knew all my career choices had been leading me to coding all along.</h3>
 
 - 🔭 I’m currently working on ["Slopopedia - Frontend"](https://github.com/jahorwitz/slopopedia) and ["Slopopedia - Backend"](https://github.com/jahorwitz/slopopedia-api)
-
-- 🌱 I’m currently learning **TripleTen Software Engineering Program, HTML, CSS, Java Script, React**
-
+- 🌱 I’m a graduate of TripleTen's Software Engineer Program
 - 👨‍💻 All of my projects are available at [https://github.com/dani9401](https://github.com/dani9401)
-
-- 📫 How to reach me **daniellefoss01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ["LinkedIn"](https://www.linkedin.com/in/daniellefoss/)
+  📫 or email me at **daniellefoss01@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
