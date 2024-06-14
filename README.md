@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  ["LinkedIn"](https://www.linkedin.com/in/daniellefoss/)
+  <a href="https://www.linkedin.com/in/daniellefoss/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/639401815/9a40c3d8-d6ae-4371-9cbc-26a9f59b6db0" alt="linkedin" width="40" height="40"/> </a>
   📫 or email me at **daniellefoss01@gmail.com**
 </p>
 
